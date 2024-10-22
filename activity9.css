@@ -1,0 +1,40 @@
+form {
+    margin: 20px;
+    padding: 20px;
+    max-width: 400px;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    width: 200px;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+input[type="submit"] {
+    margin-left: 110px;
+    padding: 5px 20px;
+}
+h1{
+    margin-left: 100px;
+    padding: 5px 20px
+}
+textarea {
+    width: 400px;
+    height: 100px;
+    padding: 50px;
+    margin-left: 10px;
+    resize: none;
+}
+
+input[type="submit"] {
+    margin-left: 110px;
+    padding: 5px 20px;
+}
